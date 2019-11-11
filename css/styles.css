@@ -40,3 +40,8 @@ body{
     resize: both;
 }
 
+body{
+
+    table-layout: auto;
+}
+
