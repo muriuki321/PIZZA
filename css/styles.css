@@ -35,3 +35,8 @@ body{
     height: auto;
 }
 
+body{
+
+    resize: both;
+}
+
