@@ -11,6 +11,6 @@ body{
     text-align: center;
 }
 
-head {
-    display: block;
+nav {
+    align-self: auto;;
 }
