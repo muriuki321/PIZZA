@@ -1,5 +1,6 @@
 body{
     background-color: black;
+
 }
 
 body{
@@ -11,6 +12,11 @@ body{
     text-align: center;
 }
 
-nav {
-    align-self: auto;;
+
+.header{
+    color: white;
+}
+
+.header1{
+    color: white;
 }
